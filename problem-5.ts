@@ -17,3 +17,4 @@ function plusMinus(arr: number[]): void {
   console.log(min / arr.length);
   console.log(zero / arr.length);
 }
+// 양수 음수 0 갯수를 카운트 하여 배열 length만큼 나누어서 값을 출력 한다.
