@@ -33,7 +33,7 @@
 function simpleArraySum(ar: number[]): number {
     // Write your code here
   // 문제 풀이 1
-  ar.length = 0;
+
     let box: number = 0;
     ar.forEach((x) => {
         box += x;
