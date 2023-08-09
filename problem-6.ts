@@ -14,7 +14,7 @@ function climbingLeaderboard(ranked: number[], player: number[]): number[] {
   return ranks;
 }
 
-const ranked = [100, 90, 90, 80, 75, 60];
-const player = [50, 65, 77, 90, 102];
+const ranked = [100, 90, 90,80, 80, 75, 60];
+const player = [50, 65, 77, 90, 102,10];
 const result = climbingLeaderboard(ranked, player);
 console.log(result); 
