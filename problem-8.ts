@@ -18,6 +18,8 @@ console.log(minList, maxList);
 
 }
 
+miniMaxSum([1,2,3,4,5,])
+
 // 내가 생각한 버전
 // function miniMaxSum(arr: number[]): void {
 //   // Write your code here
