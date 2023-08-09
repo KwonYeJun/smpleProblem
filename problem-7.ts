@@ -7,4 +7,4 @@ function staircase(n: number): void {
   }
 
 }
-console.log(staircase(6));
+staircase(6)
