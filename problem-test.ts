@@ -19,5 +19,5 @@ function findTranslationDifference(num: number): number {
 }
 
 // Example usage
-const num = 111;
-console.log(findTranslationDifference(num)); // Output: 80
+const num = 909;
+console.log(findTranslationDifference(num)); // Output: 898
